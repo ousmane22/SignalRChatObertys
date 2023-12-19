@@ -29,3 +29,4 @@ C:\Programmation\.NET\SensorProject\ObertysSignalRChatApp\ObertysSignalRChatApp\
 C:\Programmation\.NET\SensorProject\ObertysSignalRChatApp\ObertysSignalRChatApp\obj\Debug\net8.0\ObertysSignalRChatApp.pdb
 C:\Programmation\.NET\SensorProject\ObertysSignalRChatApp\ObertysSignalRChatApp\obj\Debug\net8.0\ObertysSignalRChatApp.genruntimeconfig.cache
 C:\Programmation\.NET\SensorProject\ObertysSignalRChatApp\ObertysSignalRChatApp\obj\Debug\net8.0\ref\ObertysSignalRChatApp.dll
+C:\Programmation\.NET\SensorProject\ObertysSignalRChatApp\ObertysSignalRChatApp\obj\Debug\net8.0\ObertysSignalRChatApp.sourcelink.json

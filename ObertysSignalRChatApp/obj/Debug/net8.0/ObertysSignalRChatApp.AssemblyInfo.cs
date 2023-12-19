@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ObertysSignalRChatApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75ea7cf1b5dc13a231c4c6e4c23ad9a6236af2d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ObertysSignalRChatApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ObertysSignalRChatApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
